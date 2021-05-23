@@ -1,16 +1,10 @@
-# news_app
+# Weather App using Open Weather API and flutter Bloc pattern
 
-A new Flutter project.
+This is a complete flutter app which has Open Weather API integration. The complete app is built using Bloc Pattern
 
-## Getting Started
+## App Screen shots
 
-This project is a starting point for a Flutter application.
+<img width="357" alt="Screenshot 2021-05-23 at 1 29 48 PM" src="https://user-images.githubusercontent.com/62590869/119252746-7031d000-bbcb-11eb-9fbf-868d7ab40157.png">
+<img width="384" alt="Screenshot 2021-05-23 at 1 31 41 PM" src="https://user-images.githubusercontent.com/62590869/119252747-70ca6680-bbcb-11eb-83a3-d8391e3c0e93.png">
+<img width="364" alt="Screenshot 2021-05-23 at 1 32 42 PM" src="https://user-images.githubusercontent.com/62590869/119252749-71fb9380-bbcb-11eb-801b-fe4a870b4000.png">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
