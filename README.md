@@ -2,6 +2,13 @@
 
 This is a complete flutter app which has Open Weather API integration. The complete app is built using Bloc Pattern
 
+## Features
+* Splash Screen
+* App Icon
+* API integration
+* Flutter BLOC Pattern
+* 2 Screen App
+
 ## App Screen shots
 
 <img width="357" alt="Screenshot 2021-05-23 at 1 29 48 PM" src="https://user-images.githubusercontent.com/62590869/119252746-7031d000-bbcb-11eb-9fbf-868d7ab40157.png">
